@@ -1,56 +1,66 @@
+ <div align="center">
 
-<div align="center">
+# Kumkum Yadav
 
-# Hey, I'm Kumkum Yadav 👋
+**Computer Science Engineering Student · Developer · Problem Solver**
 
-### CSE Student | Developer | Problem Solver
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=808080&center=true&vCenter=true&width=500&lines=Building+things+that+solve+real+problems.;Learning+backend+engineering+one+step+at+a+time.;C%2B%2B+%7C+Python+%7C+FastAPI+%7C+React)](https://git.io/typing-svg)
 
-Building projects, solving DSA problems, and learning something new every day.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Development;C%2B%2B+%7C+Python+%7C+FastAPI;Turning+ideas+into+real+projects" alt="Typing SVG" />
+[GitHub](https://github.com/kumkumyadavv) · [Repositories](https://github.com/kumkumyadavv?tab=repositories)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+### About Me
 
-- 🎓 Computer Science Engineering student
-- 💻 Practicing DSA in C++
-- ⚙️ Building backend applications with FastAPI
-- 🌱 Exploring React, PostgreSQL, and system design
-- 🚀 Currently working on **BillWise** and **AI Learning Tracker**
+I'm a Computer Science Engineering student interested in software development, problem-solving, and building practical applications.
 
-## 🛠️ Tech Stack
+- 💻 Practicing data structures and algorithms in C++.
+- ⚙️ Building backend applications with Python, FastAPI, and PostgreSQL.
+- 🌱 Learning by building, debugging, and understanding how things work under the hood.
+- 🎯 Focused on writing clean code and developing strong software engineering fundamentals.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,fastapi,postgres,react,tailwind,git,github,vscode" />
-</p>
+### Tech Stack
 
-## 🚀 Featured Projects
+<div align="center">
 
-### 📚 AI Learning Tracker
-Personalized learning roadmaps and progress tracking.
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,fastapi,postgres,react,tailwind,git,github,vscode&theme=light)](https://skillicons.dev)
 
-### 💳 BillWise
-A usage metering and billing engine built with backend engineering principles.
+</div>
 
-## 📊 GitHub Stats
+### Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+**01 · AI Learning Tracker**
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+A personalized learning platform that generates learning roadmaps and tracks progress.
+
+- **Stack:** FastAPI · React · PostgreSQL · SQLAlchemy
+- [Live Demo](https://ai-learning-tracker-ruby.vercel.app) · [Backend API](https://ai-learning-tracker-dyff.onrender.com/docs)
+
+**02 · BillWise**
+
+A usage metering and billing engine focused on backend engineering, usage tracking, and billing workflows.
+
+- **Stack:** Python · FastAPI · SQLAlchemy · PostgreSQL
+- [Explore the Repository](https://github.com/kumkumyadavv?tab=repositories)
+
+### GitHub Statistics
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumkumyadavv&show_icons=true&hide_border=true&bg_color=ffffff&title_color=171717&text_color=525252&icon_color=404040&rank_icon=github)](https://github.com/kumkumyadavv)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumkumyadavv&layout=compact&hide_border=true&bg_color=ffffff&title_color=171717&text_color=525252)](https://github.com/kumkumyadavv)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kumkumyadavv&theme=default&hide_border=true&background=FFFFFF&ring=525252&fire=171717&currStreakLabel=171717)](https://github.com/kumkumyadavv)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💫 Keep building. Keep learning.
+*Build. Learn. Improve. Repeat.*
 
 </div>
-
