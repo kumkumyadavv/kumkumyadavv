@@ -1,6 +1,6 @@
  <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:555555&height=210&section=header&text=Kumkum%20Yadav&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20Software%20Development&descAlignY=58&descSize=16" width="100%" />
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24212B,100:B8A5D6&height=210&section=header&text=Kumkum%20Yadav&fontSize=48&fontColor=F8F6FC&fontAlignY=38&desc=Computer%20Science%20%7C%20Software%20Development&descAlignY=58&descSize=16&descColor=E0D7EF" width="100%" />
 
 ### Hey, I'm Kumkum 👋
 
