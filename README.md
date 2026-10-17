@@ -1,119 +1,56 @@
-# LITER.LY
 
-### Read. Review. Discuss. Discover.
+<div align="center">
 
-LITER.LY is a full-stack book community platform where readers can discover books, share reviews, discuss them through threaded conversations, join reading groups, and get personalized help from AI.
+# Hey, I'm Kumkum Yadav 👋
 
----
+### CSE Student | Developer | Problem Solver
 
-## 🚧 Project Status
+Building projects, solving DSA problems, and learning something new every day.
 
-LITER.LY is currently under active development.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Development;C%2B%2B+%7C+Python+%7C+FastAPI;Turning+ideas+into+real+projects" alt="Typing SVG" />
 
-The project is being built incrementally, with a focus on learning and implementing real-world full-stack development practices.
-
----
-
-## ✨ Features
-
-### 👤 Authentication & Users
-- User signup and login
-- JWT-based authentication
-- User profiles
-- Role-based authorization
-- User review history
-- Ban functionality for moderation
-
-### 📚 Books
-- Browse books
-- Search by title or author
-- Filter by genre
-- Pagination
-- Book details
-- Add books
-
-### ⭐ Reviews
-- Rate books from 1–5 stars
-- Write reviews
-- Edit and delete own reviews
-- One review per user per book
-- Average book ratings
-
-### 💬 Threaded Discussions
-- Comment on reviews
-- Reply to comments
-- Unlimited comment nesting
-- Recursive comment tree
-- Edit and delete own comments
-- Soft deletion
-
-### 👥 Reading Groups
-- Create reading groups
-- Join and leave groups
-- Group membership management
-- Group admins
-- Group discussion posts
-- View group members
-
-### 🛡️ Moderation
-- Report reviews and comments
-- Admin moderation dashboard
-- Resolve or dismiss reports
-- Hide reported content
-- Ban users
-- Soft deletion to preserve discussion structure
-
-### 🤖 AI Features
-
-#### Reading Companion
-An AI-powered companion that helps users discuss books, understand passages, and explore themes.
-
-#### Personalized Recommendations
-Recommendations based on books users have rated or interacted with.
-
-> Advanced RAG-based features are intentionally not part of the initial version.
+</div>
 
 ---
+
+## 👩‍💻 About Me
+
+- 🎓 Computer Science Engineering student
+- 💻 Practicing DSA in C++
+- ⚙️ Building backend applications with FastAPI
+- 🌱 Exploring React, PostgreSQL, and system design
+- 🚀 Currently working on **BillWise** and **AI Learning Tracker**
 
 ## 🛠️ Tech Stack
 
-### Frontend
-- React
-- Vite
-- Tailwind CSS
-- TanStack Query
-- Context API
-- React Hook Form
-- Zod
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,fastapi,postgres,react,tailwind,git,github,vscode" />
+</p>
 
-### Backend
-- Python
-- FastAPI
-- Pydantic
-- SQLAlchemy 2.0
-- Alembic
+## 🚀 Featured Projects
 
-### Database
-- PostgreSQL
+### 📚 AI Learning Tracker
+Personalized learning roadmaps and progress tracking.
 
-### Authentication
-- JWT
-- Password hashing
+### 💳 BillWise
+A usage metering and billing engine built with backend engineering principles.
 
-### Testing
-- pytest
-- HTTPX
+## 📊 GitHub Stats
 
-### DevOps
-- Docker
-- Docker Compose
-- GitHub Actions
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-### Deployment
-- Frontend → Vercel
-- Backend → Render / Railway
-- Database → Neon / Supabase
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
- 
+<div align="center">
+
+### 💫 Keep building. Keep learning.
+
+</div>
+
