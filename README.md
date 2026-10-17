@@ -1,5 +1,4 @@
- ```markdown
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:555555&height=210&section=header&text=Kumkum%20Yadav&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20Software%20Development&descAlignY=58&descSize=16" width="100%" />
 
@@ -17,7 +16,7 @@ I believe in learning by building, staying curious, and getting a little better 
 
 ---
 
-### `tech stack`
+### Tech Stack
 
 <div align="center">
 
@@ -34,4 +33,3 @@ I believe in learning by building, staying curious, and getting a little better 
 *always learning, always evolving.*
 
 </div>
-```
