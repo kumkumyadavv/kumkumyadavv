@@ -1,42 +1,37 @@
  ```markdown
 <div align="center">
 
-# Kumkum Yadav
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:555555&height=210&section=header&text=Kumkum%20Yadav&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20Software%20Development&descAlignY=58&descSize=16" width="100%" />
 
-**Computer Science Engineering Student | Software Developer**
+### Hey, I'm Kumkum 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=777777&center=true&vCenter=true&width=500&lines=Building+things+that+solve+real+problems.;C%2B%2B+%7C+Python+%7C+FastAPI+%7C+React;Learning+by+building+and+breaking+things.)](https://git.io/typing-svg)
-
-</div>
-
-```text
-Name        : Kumkum Yadav
-Education   : B.Tech Computer Science Engineering, CSJMU
-Location    : India
-Focus       : Software Development • Backend Engineering • DSA
-Currently   : Learning, building, and solving problems
-```
-
-I enjoy building practical software applications and understanding how things work under the hood. My interests lie in backend engineering, full-stack development, database systems, and writing efficient solutions to challenging problems.
-
-### Tech Stack
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,html,css,js,react,postgres,mysql,pytest,vscode,git&theme=light)](https://skillicons.dev)
+*Curious mind. Logical thinking. Always building.*
 
 </div>
 
-**Languages:** C++ · C · Python · JavaScript · SQL  
-**Frontend:** HTML · CSS · React  
-**Backend & Databases:** FastAPI · PostgreSQL · MySQL  
-**Testing & Tools:** Pytest · VS Code · Git · GitHub
+I'm a Computer Science Engineering student who enjoys solving problems and exploring how software works under the hood.
+
+Currently strengthening my DSA skills in C++ while exploring backend engineering and full-stack development.
+
+I believe in learning by building, staying curious, and getting a little better every day.
 
 ---
 
+### `tech stack`
+
 <div align="center">
 
-*Build. Learn. Improve. Repeat.*
+<img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,react,fastapi,postgres,mysql,git,github,vscode&theme=light" />
+
+</div>
+
+<div align="center">
+
+<sub>C++ · C · Python · HTML · CSS · JavaScript · React · FastAPI · PostgreSQL · MySQL · Pytest · Git</sub>
+
+<br/><br/>
+
+*always learning, always evolving.*
 
 </div>
 ```
